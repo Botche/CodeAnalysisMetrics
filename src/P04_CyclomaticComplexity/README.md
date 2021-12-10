@@ -6,6 +6,7 @@
 С разписването на логиката в проверките сложността за поддръжка на метода ще се вдигне. Visual Studio ни показва тази метрика като Cyclomatic Complexity.
 Трябва да поддържаме това ниво ниско, за да бъде кодът ни по-лесен за поддръжка. На снимката по-долу може да се види, че комплексността на метода без логиката 
 в него е 12.
+
 ![На снимката се вижда, че комплексността на метода "GetFormattedEmployeeDetails" е 12](https://github.com/Botche/CodeAnalysisMetrics/blob/main/src/P04_CyclomaticComplexity/ProblematicCode.png?raw=true)
 
 ### Начин на рефакториране
